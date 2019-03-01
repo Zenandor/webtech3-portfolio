@@ -1,0 +1,77 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+div.mobile{
+    display: grid;
+    width: 25vw;
+    height: 100vh;
+    grid-template: 1fr 3fr 1fr 1fr/ 1fr 1fr;
+    border: 2px solid black;
+    overflow: hidden;
+}
+
+div.background-image{
+    position: absolute;
+    left: 0;
+    right: 0;
+    width: 25vw;
+    height: 100vh;
+    background-image: url(./images/festival.jpg);
+    background-size: cover;
+    opacity: 25%;
+    filter: blur(5px) contrast(50%);
+    z-index: -1;
+    border: 0px;
+}
+
+div.mobile div{
+    border: 2px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+div.mobile1{
+    grid-area: 2/1/3/4;
+    background-image: url(./images/qr-code.png);
+    background-size: 75%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+div.mobile2{
+    grid-area: 1/1/2/4;
+    background-color: black;
+    color: white;
+}
+
+div.mobile2 h5{
+    font-size: 1em;
+    letter-spacing: 5px;
+}
+
+div.mobile2 h1{
+    font-size: 3em;
+}
+
+div.mobile3{
+    grid-area: 3/1/4/2;
+}
+
+div.mobile4{
+    grid-area: 3/2/4/3;
+}
+div.mobile5{
+    grid-area: 4/1/5/3;
+}
+
+div.mobile3 p, div.mobile4 p, div.mobile5 p{
+    font-size: 2em;
+    font-weight: bold;
+}
+
