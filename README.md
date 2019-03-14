@@ -1,6 +1,7 @@
 Portfolio Repo met link naar alle labs in webtech 3 <br/>
 <br/>
 Lab 1: Website samen met Nicolas Vanhuynegem + foto GIT IT <br/>
+[link to repository](https://github.com/snipercool/2imd-webtech3-lab1)<br/>
 <br/>
 <br/>
 Lab 2: Flexbox Froggy + CSS Grid Garden + WeAreIMD tickets + IMDstagram <br/>
