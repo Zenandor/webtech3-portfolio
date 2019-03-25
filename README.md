@@ -13,3 +13,8 @@ Lab 2: Flexbox Froggy + CSS Grid Garden + WeAreIMD tickets + IMDstagram <br/>
 Lab 3: Notes App <br/>
 [link to repository](https://github.com/Zenandor/ES6)<br/>
 [link to codepen](https://codepen.io/Zenandor/pen/zbPpZE?editors=0110)<br/>
+<br/>
+<br/>
+Lab 4: Weather App <br/>
+[link to repository)(https://github.com/Zenandor/Webtech3-Lab4)<br/>
+
