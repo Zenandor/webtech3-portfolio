@@ -18,4 +18,9 @@ Lab 3: Notes App <br/>
 Lab 4: Weather App <br/>
 [link to repository](https://github.com/Zenandor/Webtech3-Lab4)<br/>
 [link codepen](https://codepen.io/Zenandor/pen/QoejoG)<br/>
+<br/>
+<br/>
+Lab 5: Message API <br/>
+[link to codepen](https://codepen.io/Zenandor/pen/VNYMRe?editors=1010)<br/>
+[link to repository](https://github.com/Zenandor/Webtech3-lab5)<br/>
 
